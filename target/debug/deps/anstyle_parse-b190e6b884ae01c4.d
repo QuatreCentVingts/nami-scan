@@ -1,0 +1,11 @@
+C:\code\rust\Nami-Scan\target\debug\deps\anstyle_parse-b190e6b884ae01c4.rmeta: C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\code\rust\Nami-Scan\target\debug\deps\libanstyle_parse-b190e6b884ae01c4.rlib: C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\code\rust\Nami-Scan\target\debug\deps\anstyle_parse-b190e6b884ae01c4.d: C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs:
+C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs:
+C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs:
+C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs:
+C:\Users\arach\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs:
